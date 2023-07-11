@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: rgb(231, 229, 229);
+  margin: 50px;
+}
+h1 {
+  font-family: "Belanosima", sans-serif;
+  color: rgb(202, 85, 104);
+}
+p {
+  font-family: sans-serif;
+  color: rgb(121, 106, 106);
+  font-size: 20px;
+}
+a {
+  color: rgb(231, 46, 133);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration-line: underline;
+}
+/*Estilos usados em todo o código*/
+#novo_estilo {
+  color: rgb(75, 71, 71);
+  font-size: 26px;
+  font-weight: bold;
+}
